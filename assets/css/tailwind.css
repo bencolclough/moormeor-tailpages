@@ -617,6 +617,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   width: 9rem;
 }
 
+.w-screen	{
+  width: 100vw;
+}
+
 .max-w-max {
   max-width: -webkit-max-content;
   max-width: -moz-max-content;
@@ -701,6 +705,15 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-transparent {
   background-color: transparent;
 }
+
+.bg-top {
+background-position: top;
+}
+
+.bg-cover{
+background-size: cover;
+}
+
 
 .object-cover {
   -o-object-fit: cover;
