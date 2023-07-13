@@ -1464,3 +1464,7 @@ background-size: cover;
     padding-bottom: 0.25rem;
   }
 }
+
+.h-screen {
+height: 100vh;
+}
