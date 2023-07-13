@@ -1468,3 +1468,7 @@ background-size: cover;
 .h-screen {
 height: 100vh;
 }
+
+.text-right {
+text-align: right;
+}
