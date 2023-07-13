@@ -1473,12 +1473,12 @@ height: 100vh;
 text-align: right;
 }
 
--mt-40 {
+.-mt-40 {
   margin-top: -10rem;
 }
-mr-4 {
+.mr-4 {
   margin-right: 1rem;
 }
-text-[#3A401D] {
+.text-[#3A401D] {
   color: rgb(58 64 29);
 }
